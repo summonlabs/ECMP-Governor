@@ -1,8 +1,7 @@
 # ECMP Governor
 
 **ECMP Governor 1.0.0** is the deterministic equal-cost multipath membership,
-eligibility and rebalance-governance runtime of the Distributed Fabric
-Infrastructure / Fabric OS stack, published by Summon Software Labs.
+eligibility and rebalance-governance runtime for data-center fabric infrastructure.
 
 It answers exactly one question:
 
